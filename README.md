@@ -1,0 +1,2 @@
+# Hostel-Management-System_FOSS
+The students living in hostel are facing problems in interacting and giving out their complaints to the hostel management. Similarly, the hostel management is finding it difficult to give out important announcements and information regarding hostel to the students. This website is designed specially to deal with these problems. This project which we have designed eases out the interaction between hostelers and management.
